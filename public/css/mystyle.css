@@ -1,0 +1,1225 @@
+.banner {
+
+    position: relative;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 180px 0 220px 0;
+    background-position: center;
+}
+
+.banner .ovelay_bg {
+    bottom: -2px;
+}
+
+.innerbanner h1 {
+    text-align: center;
+    color: white;
+}
+
+ul.slider-menu {
+    display: flex;
+    justify-content: center;
+}
+
+li.nav-item.dropdown.dropdown_menu {
+    margin-top: 1rem;
+}
+
+svg#Burger {
+    width: 3%;
+}
+
+.innerbanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links a.active {
+    color: white;
+}
+
+.nav-links a {
+    color: red;
+    font-family: cursive;
+    font-family: 'Playfair';
+    font-style: italic;
+}
+
+.img-product img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.img-product {
+    display: flex;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h5.card-title {
+    font-size: 18px;
+    font-style: italic;
+}
+
+p.price {
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: italic;
+    margin: 0;
+}
+
+.card.productitem {
+    background: transparent;
+    border: 0;
+  transition: border 0.3s ease;
+}
+
+
+p.desc-product {
+    font-family: auto;
+    font-style: italic;
+}
+
+p.price.text-center:before {
+    content: '';
+    width: 35%;
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    border-top: 1px solid #d5d5d5;
+}
+p.price.text-center{
+    position: relative;
+}
+
+p.price.text-center:after {
+    content: '';
+    width: 35%;
+    display: block;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    border-top: 1px solid #d5d5d5;
+}
+
+
+ul.tabs-left.food-menu-filter {
+    position: relative;
+    z-index: 0;
+}
+
+ul.tabs-left.food-menu-filter li {
+    background: red;
+}
+
+
+
+ul.tabs-left.food-menu-filter .innerCat {
+    color: white;
+}
+
+h5.card-title.text-center:hover {
+    color: #ffc701 !important;
+}
+.custom.contact-form-group.nnw input {
+    width: 100%;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+}
+.custom.contact-form-group.nnw .form-field textarea.form-control {
+    height: 100px !important;
+    width: 100%;
+    background: transparent;
+    border-radius: 20px;
+}
+.custom.contact-form-group.nnw .form-field .form-control{
+    transition: border 0.3s ease;
+    height: 60px;
+}
+.custom.contact-form-group.nnw .form-field .form-control:focus {
+    border-color: red;
+}
+
+section.contact-sec {position: relative;padding-top: 16px;padding-bottom: 44px;}
+.custom.contact-form-group.nnw {
+
+    width: 75%;
+    display: block !important;
+    margin: 16px auto;
+}
+section.banner .ovelay_bg img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.category-banner {
+    background-color: red;
+}
+
+.category-banner {
+    padding: 5rem 0;
+    background-image: url(./image/bg1burger.png);
+    background-size: contain;
+    background-repeat: space;
+}
+
+.category-banner h2 {
+    text-align: center;
+    color: white;
+}
+
+.category-banner h2 span {
+    color: black;
+}
+.banner {
+
+    position: relative;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 180px 0 220px 0;
+    background-position: center;
+}
+
+.banner .ovelay_bg {
+    bottom: -2px;
+}
+
+.innerbanner h1 {
+    text-align: center;
+    color: white;
+}
+
+ul.slider-menu {
+    display: flex;
+    justify-content: center;
+}
+
+li.nav-item.dropdown.dropdown_menu {
+    margin-top: 1rem;
+}
+
+svg#Burger {
+    width: 3%;
+}
+
+.innerbanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links a.active {
+    color: white;
+}
+
+.nav-links a {
+    color: red;
+    font-family: cursive;
+    font-family: 'Playfair';
+    font-style: italic;
+}
+
+.img-product img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.img-product {
+    display: flex;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h5.card-title {
+    font-size: 18px;
+    font-style: italic;
+}
+
+p.price {
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: italic;
+    margin: 0;
+}
+
+.card.productitem {
+    background: transparent;
+    border: 0;
+  transition: border 0.3s ease;
+}
+
+
+p.desc-product {
+    font-family: auto;
+    font-style: italic;
+}
+
+p.price.text-center:before {
+    content: '';
+    width: 35%;
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    border-top: 1px solid #d5d5d5;
+}
+p.price.text-center{
+    position: relative;
+}
+
+p.price.text-center:after {
+    content: '';
+    width: 35%;
+    display: block;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    border-top: 1px solid #d5d5d5;
+}
+
+
+ul.tabs-left.food-menu-filter {
+    position: relative;
+    z-index: 0;
+}
+
+ul.tabs-left.food-menu-filter li {
+    background: red;
+}
+
+
+
+ul.tabs-left.food-menu-filter .innerCat {
+    color: white;
+}
+
+h5.card-title.text-center:hover {
+    color: #ffc701 !important;
+}
+.custom.contact-form-group.nnw input {
+    width: 100%;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+}
+.custom.contact-form-group.nnw .form-field textarea.form-control {
+    height: 100px !important;
+    width: 100%;
+    background: transparent;
+    border-radius: 20px;
+}
+.custom.contact-form-group.nnw .form-field .form-control{
+    transition: border 0.3s ease;
+    height: 60px;
+}
+.custom.contact-form-group.nnw .form-field .form-control:focus {
+    border-color: red;
+}
+
+section.contact-sec {position: relative;padding-top: 16px;padding-bottom: 44px;}
+.custom.contact-form-group.nnw {
+
+    width: 75%;
+    display: block !important;
+    margin: 16px auto;
+}
+section.banner .ovelay_bg img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.category-banner {
+    background-color: red;
+}
+
+.category-banner {
+    padding: 5rem 0;
+    background-image: url(./image/bg1burger.png);
+    background-size: contain;
+    background-repeat: space;
+}
+
+.category-banner h2 {
+    text-align: center;
+    color: white;
+}
+
+.category-banner h2 span {
+    color: black;
+}
+
+.bg-shape.grey.up {
+    top: 0;
+    rotate: 180deg;
+}
+
+.middle-banner-burger-image{
+    padding: 10rem;
+    background-image: url(./image/categorybanner/combo.png);
+    background-repeat: no-repeat;
+}
+.bg-shape.grey.up {
+    top: 0;
+    rotate: 180deg;
+}
+section.background-burger-middle-banner{
+    position: relative;
+    background: #333;
+}
+
+section.background-burger-middle-banner h3{
+    color: red;
+    font-weight:900;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.innerbanner i {
+    font-size: 42px;
+    color: red;
+}
+
+.contact-inner .contact-card {
+    width: 100%;
+}
+
+.backgroundimage{
+    background: url(./../uploads/pages/Slider_Ground15_1680518821.png);
+}
+
+.contact-inner .contact-card p {
+    color: #ffc501;
+    font-size: 21px;
+    font-family: Caveat,cursive;
+}
+.contact-inner .contact-card h2 {
+    color: white;
+}
+
+
+.contact-card .contact-form {
+    background: transparent;
+    position: relative;
+}
+.contact-inner .form-control {
+    margin: 0 !important;
+    width: 100%!important;
+}
+
+
+.contact-form-inner .col-md-6 {
+    margin-bottom: 1rem;
+    padding: 0 0.20rem;
+}
+
+.contact-form-inner.row .col-md-12 {
+    padding: 0 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.contact-form-inner .form-control {
+    border-radius: 0!important;
+    padding: 0.75rem 0.5rem;
+}
+
+.contact-form-inner .form-control:focus {
+    box-shadow: none;
+    border: 1px solid red;
+}
+
+.horizontal .grey.up {
+    top: -7px !important;
+    position: absolute !important;
+    rotate: 180deg !important;
+    width: 102%;
+    left: -4px;
+}
+
+.horizontal .grey.down {
+    bottom: -3px !important;
+    width: 102%;
+    left: -4px;
+}
+.vertical .grey.right {
+    position: absolute !important;
+    rotate: 270deg !important;
+    left: -20px; /* Position the left background */
+}
+
+.vertical .left {
+    position: absolute;
+    rotate: 90deg !important;
+    right: -20px; /* Position the right background */
+}
+ul.contact-details a {
+    font-family: Caveat,cursive;
+    font-size: 21px;
+    color: red !important;
+    margin-left: 10px;
+    font-weight: 800;
+}
+ul.contact-details i {background: white;border-radius: 50%;padding: 10px;color: black;}
+
+ul.contact-details li {
+    margin-bottom: 10px;
+}
+.bg-burger{
+    background: url(../images/burger.jpg);
+    background-size: cover;
+    padding: 0 !important;
+    border: 10px !important;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+section.contact-section3 .card {
+    border: none;
+}
+
+.left-content .contact-form {
+    box-shadow: none;
+    background: #000000;
+    padding: 3rem;
+    border-top-right-radius: 55px;
+    border-bottom-right-radius: 55px;
+}
+
+.col-md-6.bg-content-contact {
+    padding: 0;
+}
+.left-content .contact-form h2 {
+    color: white;
+}
+
+.left-content .contact-form h2 span {
+    background: #df0000;
+}
+
+.left-content .contact-form h2 span:before {
+    background: #df0000;
+}
+
+.left-content .default-btn {
+    background: #df0000;
+    width: 100%;
+}
+
+
+.locationarea:hover {
+    cursor: pointer;
+}
+.offcanvas{
+    z-index: 9999999999;
+}
+
+.offcanvas-header {
+    padding: 0;
+}
+
+.offcanvas-header iframe {
+    height: 367px;
+}
+
+.offcanvas-header button {
+    position: absolute;
+    top: 15px;
+    right: 22px;
+    color: black !important;
+}
+.offcanvas-body {
+    background-color: black;
+}
+.offcanvas-body h2 {
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+}
+.offcanvas-body svg {
+    width: 30px;
+}
+hr.offcanvas-hr {
+    opacity: 1;
+    border: white;
+}
+.offcanvas-flex {display: flex;align-items: center;}
+
+.offcanvas-flex span {
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    display: inline-block;
+    margin: 0;
+}
+
+h2.h2-location-cart + p {
+    position: absolute;
+    top: 38px;
+    color: yellow;
+    font-weight: 600;
+    font-style: italic;
+}
+.banner {
+
+    position: relative;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 180px 0 220px 0;
+    background-position: center;
+}
+
+.banner .ovelay_bg {
+    bottom: -2px;
+}
+
+.innerbanner h1 {
+    text-align: center;
+    color: white;
+}
+
+ul.slider-menu {
+    display: flex;
+    justify-content: center;
+}
+
+li.nav-item.dropdown.dropdown_menu {
+    margin-top: 1rem;
+}
+
+svg#Burger {
+    width: 3%;
+}
+
+.innerbanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links a.active {
+    color: white;
+}
+
+.nav-links a {
+    color: red;
+    font-family: cursive;
+    font-family: 'Playfair';
+    font-style: italic;
+}
+
+.img-product img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.img-product {
+    display: flex;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h5.card-title {
+    font-size: 18px;
+    font-style: italic;
+}
+
+p.price {
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: italic;
+    margin: 0;
+}
+
+.card.productitem {
+    background: transparent;
+    border: 0;
+  transition: border 0.3s ease;
+}
+
+
+p.desc-product {
+    font-family: auto;
+    font-style: italic;
+}
+
+p.price.text-center:before {
+    content: '';
+    width: 35%;
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    border-top: 1px solid #d5d5d5;
+}
+p.price.text-center{
+    position: relative;
+}
+
+p.price.text-center:after {
+    content: '';
+    width: 35%;
+    display: block;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    border-top: 1px solid #d5d5d5;
+}
+
+
+ul.tabs-left.food-menu-filter {
+    position: relative;
+    z-index: 0;
+}
+
+ul.tabs-left.food-menu-filter li {
+    background: red;
+}
+
+
+
+ul.tabs-left.food-menu-filter .innerCat {
+    color: white;
+}
+
+h5.card-title.text-center:hover {
+    color: #ffc701 !important;
+}
+.custom.contact-form-group.nnw input {
+    width: 100%;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+}
+.custom.contact-form-group.nnw .form-field textarea.form-control {
+    height: 100px !important;
+    width: 100%;
+    background: transparent;
+    border-radius: 20px;
+}
+.custom.contact-form-group.nnw .form-field .form-control{
+    transition: border 0.3s ease;
+    height: 60px;
+}
+.custom.contact-form-group.nnw .form-field .form-control:focus {
+    border-color: red;
+}
+
+section.contact-sec {position: relative;padding-top: 16px;padding-bottom: 44px;}
+.custom.contact-form-group.nnw {
+
+    width: 75%;
+    display: block !important;
+    margin: 16px auto;
+}
+section.banner .ovelay_bg img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.category-banner {
+    background-color: red;
+}
+
+.category-banner {
+    padding: 5rem 0;
+    background-image: url(./image/bg1burger.png);
+    background-size: contain;
+    background-repeat: space;
+}
+
+.category-banner h2 {
+    text-align: center;
+    color: white;
+}
+
+.category-banner h2 span {
+    color: black;
+}
+.banner {
+
+    position: relative;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./image/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 180px 0 220px 0;
+    background-position: center;
+}
+
+.banner .ovelay_bg {
+    bottom: -2px;
+}
+
+.innerbanner h1 {
+    text-align: center;
+    color: white;
+}
+
+ul.slider-menu {
+    display: flex;
+    justify-content: center;
+}
+
+li.nav-item.dropdown.dropdown_menu {
+    margin-top: 1rem;
+}
+
+svg#Burger {
+    width: 3%;
+}
+
+.innerbanner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav-links {
+    text-align: center;
+}
+
+.nav-links a.active {
+    color: white;
+}
+
+.nav-links a {
+    color: red;
+    font-family: cursive;
+    font-family: 'Playfair';
+    font-style: italic;
+}
+
+.img-product img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.img-product {
+    display: flex;
+    height: 250px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h5.card-title {
+    font-size: 18px;
+    font-style: italic;
+}
+
+p.price {
+    color: red;
+    font-family: cursive;
+    font-weight: 900;
+    font-style: italic;
+    margin: 0;
+}
+
+.card.productitem {
+    background: transparent;
+    border: 0;
+  transition: border 0.3s ease;
+}
+
+
+p.desc-product {
+    font-family: auto;
+    font-style: italic;
+}
+
+p.price.text-center:before {
+    content: '';
+    width: 35%;
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    border-top: 1px solid #d5d5d5;
+}
+p.price.text-center{
+    position: relative;
+}
+
+p.price.text-center:after {
+    content: '';
+    width: 35%;
+    display: block;
+    top: 10px;
+    position: absolute;
+    right: 0;
+    border-top: 1px solid #d5d5d5;
+}
+
+
+ul.tabs-left.food-menu-filter {
+    position: relative;
+    z-index: 0;
+}
+
+ul.tabs-left.food-menu-filter li {
+    background: red;
+}
+
+
+
+ul.tabs-left.food-menu-filter .innerCat {
+    color: white;
+}
+
+h5.card-title.text-center:hover {
+    color: #ffc701 !important;
+}
+.custom.contact-form-group.nnw input {
+    width: 100%;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+}
+.custom.contact-form-group.nnw .form-field textarea.form-control {
+    height: 100px !important;
+    width: 100%;
+    background: transparent;
+    border-radius: 20px;
+}
+.custom.contact-form-group.nnw .form-field .form-control{
+    transition: border 0.3s ease;
+    height: 60px;
+}
+.custom.contact-form-group.nnw .form-field .form-control:focus {
+    border-color: red;
+}
+
+section.contact-sec {position: relative;padding-top: 16px;padding-bottom: 44px;}
+.custom.contact-form-group.nnw {
+
+    width: 75%;
+    display: block !important;
+    margin: 16px auto;
+}
+section.banner .ovelay_bg img {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.category-banner {
+    background-color: red;
+}
+
+.category-banner {
+    padding: 5rem 0;
+    background-image: url(./image/bg1burger.png);
+    background-size: contain;
+    background-repeat: space;
+}
+
+.category-banner h2 {
+    text-align: center;
+    color: white;
+}
+
+.category-banner h2 span {
+    color: black;
+}
+
+.bg-shape.grey.up {
+    top: 0;
+    rotate: 180deg;
+}
+
+.middle-banner-burger-image{
+    padding: 10rem;
+    background-image: url(./image/categorybanner/combo.png);
+    background-repeat: no-repeat;
+}
+.bg-shape.grey.up {
+    top: 0;
+    rotate: 180deg;
+}
+section.background-burger-middle-banner{
+    position: relative;
+    background: #333;
+}
+
+section.background-burger-middle-banner h3{
+    color: red;
+    font-weight:900;
+    font-size: 28px;
+    font-style: italic;
+}
+
+.innerbanner i {
+    font-size: 42px;
+    color: red;
+}
+
+.contact-inner .contact-card {
+    width: 100%;
+}
+
+.backgroundimage{
+    background: url(./../uploads/pages/Slider_Ground15_1680518821.png);
+}
+
+.contact-inner .contact-card p {
+    color: #ffc501;
+    font-size: 21px;
+    font-family: Caveat,cursive;
+}
+.contact-inner .contact-card h2 {
+    color: white;
+}
+
+
+.contact-card .contact-form {
+    background: transparent;
+    position: relative;
+}
+.contact-inner .form-control {
+    margin: 0 !important;
+    width: 100%!important;
+}
+
+
+.contact-form-inner .col-md-6 {
+    margin-bottom: 1rem;
+    padding: 0 0.20rem;
+}
+
+.contact-form-inner.row .col-md-12 {
+    padding: 0 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.contact-form-inner .form-control {
+    border-radius: 0!important;
+    padding: 0.75rem 0.5rem;
+}
+
+.contact-form-inner .form-control:focus {
+    box-shadow: none;
+    border: 1px solid red;
+}
+
+.horizontal .grey.up {
+    top: -7px !important;
+    position: absolute !important;
+    rotate: 180deg !important;
+    width: 102%;
+    left: -4px;
+}
+
+.horizontal .grey.down {
+    bottom: -3px !important;
+    width: 102%;
+    left: -4px;
+}
+.vertical .grey.right {
+    position: absolute !important;
+    rotate: 270deg !important;
+    left: -20px; /* Position the left background */
+}
+
+.vertical .left {
+    position: absolute;
+    rotate: 90deg !important;
+    right: -20px; /* Position the right background */
+}
+ul.contact-details a {
+    font-family: Caveat,cursive;
+    font-size: 21px;
+    color: red !important;
+    margin-left: 10px;
+    font-weight: 800;
+}
+ul.contact-details i {background: white;border-radius: 50%;padding: 10px;color: black;}
+
+ul.contact-details li {
+    margin-bottom: 10px;
+}
+.bg-burger{
+    background: url(../images/burger.jpg);
+    background-size: cover;
+    padding: 0 !important;
+    border: 10px !important;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+section.contact-section3 .card {
+    border: none;
+}
+
+.left-content .contact-form {
+    box-shadow: none;
+    background: #000000;
+    padding: 3rem;
+    border-top-right-radius: 55px;
+    border-bottom-right-radius: 55px;
+}
+
+.col-md-6.bg-content-contact {
+    padding: 0;
+}
+.left-content .contact-form h2 {
+    color: white;
+}
+
+.left-content .contact-form h2 span {
+    background: #df0000;
+}
+
+.left-content .contact-form h2 span:before {
+    background: #df0000;
+}
+
+.left-content .default-btn {
+    background: #df0000;
+    width: 100%;
+}
+
+
+.locationarea:hover {
+    cursor: pointer;
+}
+.offcanvas{
+    z-index: 9999999999;
+}
+
+.offcanvas-header {
+    padding: 0;
+}
+
+.offcanvas-header iframe {
+    height: 367px;
+}
+
+.offcanvas-header button {
+    position: absolute;
+    top: 15px;
+    right: 22px;
+    color: black !important;
+}
+.offcanvas-body {
+    background-color: black;
+}
+.offcanvas-body h2 {
+    color: red;
+    font-size: 25px;
+    font-style: italic;
+}
+.offcanvas-body svg {
+    width: 30px;
+}
+hr.offcanvas-hr {
+    opacity: 1;
+    border: white;
+}
+.offcanvas-flex {display: flex;align-items: center;}
+
+.offcanvas-flex span {
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    display: inline-block;
+    margin: 0;
+}
+
+h2.h2-location-cart + p {
+    position: absolute;
+    top: 40px;
+    color: yellow;
+    font-family: 'Caveat' , cursive;
+    font-size: 19px;
+    font-weight: 600;
+    font-style: italic;
+}
+.offcanvas-body ul {
+    margin-top: 2rem;
+}
+
+.offcanvas-body i {
+    background: red !important;
+}
+.bigbox {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 2;
+}
+.smallbox {
+    padding: 1.5rem 0;
+}
+.drop-career-form {
+    padding: 4rem;
+}
+
+.drop-career-form h2 {
+    font-size: 34px;
+}
+.carrer-inner-form {border: 3px dotted #eee;padding: 23px;}
+.cformhead {
+    margin-bottom: 2rem;
+}
+
+.form-floating label {
+    left: 8px;
+    padding: 1rem 0;
+}
+.form-control + label {
+    color: white;
+    font-weight: 900;
+}
+.form-control:active {
+    border: none;
+}
+.form-control:focus + label {
+    color: red;
+    font-weight: 900;
+}
+.joinus .form-control{
+    color: white;
+    background: #0f0f0f;
+    border: none;
+}
+
+.joinus .form-control:after {
+    display:block;
+    content: '';
+    border-bottom: solid 3px #019fb6;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in-out;
+  }
+  .joinus .form-control:after
+{
+    transform: scaleX(1);
+}
+.description p {
+    padding-left: 10px;
+}

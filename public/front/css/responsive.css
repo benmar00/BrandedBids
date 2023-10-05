@@ -1,0 +1,16 @@
+@media (max-width: 1440px) {
+    .auction h2 {
+      font-size: 20px;
+    }
+    .headaches {
+      padding: 0px 250px;
+    }
+
+    .recent-sales {
+      padding: 40px 250px;
+    }
+
+    .counter {
+      padding: 40px 250px;
+    }
+  }
