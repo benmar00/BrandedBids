@@ -1,0 +1,45 @@
+{
+    "menus": [
+        {
+            "section": "Resources",
+            "items": [
+                {
+                    "role" :"admin",
+                    "title": "Testimonial",
+                    "icon": "<i class=\"fa fa-quote-left\" aria-hidden=\"true\"><\/i>",
+                    "url": "\/admin\/testimonial"
+                },
+                {
+                    "role" :"admin",
+                    "title": "Faq",
+                    "icon": "<i class=\"fa fa-question\" aria-hidden=\"true\"><\/i>",
+                    "url": "\/admin\/faq"
+                },
+                {
+                    "role" :"admin",
+                    "title": "Faq Category",
+                    "icon": "<i class=\"fa fa-question-circle\" aria-hidden=\"true\"><\/i>",
+                    "url": "\/admin\/faq-category"
+                },
+                {
+                    "role" :"admin",
+                    "title": "Make",
+                    "url": "\/admin\/make",
+                    "icon": "<i class=\"mdi mdi-car\"><\/i>"
+                },
+                {
+                    "role" :"admin|customer",
+                    "title": "Vehicle",
+                    "url": "\/vehicle",
+                    "icon": "<i class=\"fa fa-car\" aria-hidden=\"true\"><\/i>"
+                },
+                {
+                    "role" :"admin",
+                    "title": "Body Style",
+                    "url": "\/admin\/body-style",
+                    "icon": "<i class=\"ti-car\"><\/i>"
+                }
+            ]
+        }
+    ]
+}
